@@ -1,0 +1,17 @@
+# Datasets
+data/
+
+# Saved AI Models (Optional: remove this line if you WANT to upload your .pkl file)
+models/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Virtual Environments (if you made one)
+.venv/
+venv/
+env/
+
+# OS junk files
+.DS_Store
